@@ -8,7 +8,7 @@ public class GitTrainingSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTrainingSpringApplication.class, args);
-		System.out.print("これはバージョン2です");
+		System.out.print("これはバージョン2です(branchTest)");
 	}
 
 }
