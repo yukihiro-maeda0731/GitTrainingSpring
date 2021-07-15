@@ -9,7 +9,7 @@ public class GitTrainingSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitTrainingSpringApplication.class, args);
 		System.out.print("これはバージョン2ですmaster");
-		int a;
+		int a = 0;
 	}
 
 }
