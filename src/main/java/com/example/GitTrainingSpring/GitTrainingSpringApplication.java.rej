@@ -1,0 +1,10 @@
+diff a/src/main/java/com/example/GitTrainingSpring/GitTrainingSpringApplication.java b/src/main/java/com/example/GitTrainingSpring/GitTrainingSpringApplication.java	(rejected hunks)
+@@ -8,7 +8,7 @@
+ 
+ 	public static void main(String[] args) {
+ 		SpringApplication.run(GitTrainingSpringApplication.class, args);
+-		System.out.print("これはバージョン2です");
++		System.out.print("これはバージョン2ですmaster");
+ 	}
+ 
+ }
