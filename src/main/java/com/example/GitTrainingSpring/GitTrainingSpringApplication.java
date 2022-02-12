@@ -11,6 +11,7 @@ public class GitTrainingSpringApplication {
 		System.out.print("これはバージョン2ですmaster");
 		int a = 0;
 		System.out.print("これはバージョン2の1です");
+		System.out.print("これはバージョン2の2です");
 	}
 
 }
