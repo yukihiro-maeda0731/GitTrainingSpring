@@ -13,6 +13,7 @@ public class GitTrainingSpringApplication {
 		System.out.print("これはバージョン2の1です");
 		System.out.print("これはバージョン2の2です");
 		System.out.print("master2です");
+		System.out.print("master3です");
 	}
 
 }
