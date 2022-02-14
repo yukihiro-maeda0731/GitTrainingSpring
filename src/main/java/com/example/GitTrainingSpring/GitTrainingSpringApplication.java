@@ -10,6 +10,7 @@ public class GitTrainingSpringApplication {
 		SpringApplication.run(GitTrainingSpringApplication.class, args);
 		System.out.print("これはmasterです");
 		System.out.print("これはmaster2です");
+		System.out.print("これはmaster3です");
 	}
 
 }
