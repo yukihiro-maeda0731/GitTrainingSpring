@@ -9,10 +9,6 @@ public class GitTrainingSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitTrainingSpringApplication.class, args);
 		System.out.print("これはmasterです");
-		System.out.print("これはmaster2です");
-		System.out.print("これはmaster3です");
-		System.out.print("これはmaster3アップデート後です");
-
 	}
 
 }
