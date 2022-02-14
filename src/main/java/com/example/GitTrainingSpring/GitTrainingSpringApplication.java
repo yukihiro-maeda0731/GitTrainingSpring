@@ -11,6 +11,8 @@ public class GitTrainingSpringApplication {
 		System.out.print("これはmasterです");
 		System.out.print("これはmaster2です");
 		System.out.print("これはmaster3です");
+		System.out.print("これはmaster3アップデート後です");
+
 	}
 
 }
